@@ -1,2 +1,2 @@
-# Assignment_1
+# Task_1
 Registration and Login system
